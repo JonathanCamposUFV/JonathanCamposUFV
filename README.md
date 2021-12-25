@@ -2,7 +2,7 @@
 
 - 💻 Estudo Ciência da Computação na UFV
 - 🌱 Atualmente desenvolvendo habilidades em front-end
-- 🤩 Aprecio tecnologias inovadoras e bons jogos
+- 🤩 Aprecio bastante a tecnologia e bons jogos
 
 ##
 
