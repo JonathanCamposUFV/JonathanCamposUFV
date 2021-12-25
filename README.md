@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Jonathan
 
 - 💻 Estudo Ciência da Computação na UFV
-- 🌱 Gosto bastante de tecnologias front-end
-- 🤩 Louco pelo mundo tech e inovação
+- 🌱 Atualmente desenvolvendo habilidades em front-end
+- 🤩 Aprecio tecnologias inovadoras e bons jogos
 
 <div align="center">
   <a href="https://github.com/JonathanCamposUFV">
