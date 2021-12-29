@@ -4,8 +4,6 @@
 - 🌱 Atualmente desenvolvendo habilidades em front-end
 - 🤩 Aprecio bastante a tecnologia e bons jogos
 
-##
-
 
 <div align="center">
   <a href="https://github.com/JonathanCamposUFV">
